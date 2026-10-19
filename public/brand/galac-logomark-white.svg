@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 852" fill="none">
+  <!-- Galac.ai Logomark - White -->
+  <ellipse cx="512" cy="426" rx="440" ry="185" stroke="#F7F7F7" stroke-width="24" fill="none" transform="rotate(-35, 512, 426)" opacity="0.9"/>
+  <ellipse cx="512" cy="426" rx="440" ry="185" stroke="#F7F7F7" stroke-width="24" fill="none" transform="rotate(35, 512, 426)" opacity="0.9"/>
+  <ellipse cx="512" cy="426" rx="240" ry="100" stroke="#F7F7F7" stroke-width="9" fill="none" opacity="0.3"/>
+  <path d="M512 336 L532 402 L600 426 L532 450 L512 516 L492 450 L424 426 L492 402 Z" fill="#F7F7F7"/>
+  <circle cx="260" cy="370" r="18" fill="#F7F7F7" opacity="0.7"/>
+  <circle cx="764" cy="482" r="18" fill="#F7F7F7" opacity="0.7"/>
+  <circle cx="370" cy="330" r="8" fill="#F7F7F7" opacity="0.5"/>
+  <circle cx="654" cy="522" r="8" fill="#F7F7F7" opacity="0.5"/>
+</svg>
